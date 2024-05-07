@@ -1,6 +1,8 @@
 # PokeAPI Demo
 
-The purpose of the project is to find the Pokemon generation with the greatest number of moves that start with the letter _"a"_ (case-insensitive). The answer is Generation IV which contains 9 moves that start with the letter _"a"_.
+The purpose of the project is to find the Pokemon generation with the greatest number of moves that start with the letter _"a"_ (case-insensitive).
+
+**The answer is Generation IV which contains 9 moves that start with the letter _"a"_.**
 
 ## Installation
 
